@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="stylesheet.css">
+<a href="www.mekeke.com"
+title="goes to google">
+<image src="">
+</a>
+<video>
+<source src="c:\Users\hp\Desktop\BINBAZZ.mp4">
+</video>
+    <form >
+<label for="username">email:</label>
+<input type="text" id="username">
+    </form>
+    
+</body>
+</html>
